@@ -1,13 +1,13 @@
 [
   {
     "remote": "github",
-    "repository":  "drkphnx/android_device_xiaomi_sm8250-common",
+    "repository":  "Eidoron1/android_device_xiaomi_sm8250-common",
     "target_path": "device/xiaomi/sm8250-common",
-    "branch": "elixir"
+    "branch": "12"
   },
   {
     "remote": "github",
-    "repository":  "drkphnx/vendor_xiaomi_alioth",
+    "repository":  "Eidoron1/vendor_xiaomi_alioth",
     "target_path": "vendor/xiaomi/alioth",
     "branch": "12"
   },
