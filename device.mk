@@ -57,10 +57,6 @@ PRODUCT_SHIPPING_API_LEVEL := 30
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/etc/apns-conf.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/apns-conf.xml
 
-# Pixel Launcher 
-PRODUCT_PACKAGES += \
-    PixelLauncher 
-
 # Audio
 TARGET_ENABLE_AUDIO_ULL := true
 
