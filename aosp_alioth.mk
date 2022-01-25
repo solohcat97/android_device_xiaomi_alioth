@@ -14,6 +14,8 @@ $(call inherit-product, vendor/aosp/config/common.mk)
 # Inherit from alioth device
 $(call inherit-product, device/xiaomi/alioth/device.mk)
 TARGET_USES_BLUR := true
+TARGET_SUPPORTS_QUICK_TAP := true
+
 #USE_PIXEL_CHARGING := true
 TARGET_BOOT_ANIMATION_RES := 1080
 #USE_AOSP_CLOCK := true
